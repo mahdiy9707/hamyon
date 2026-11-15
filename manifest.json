@@ -1,0 +1,16 @@
+{
+  "name": "Hamyon — pul hisobi",
+  "short_name": "Hamyon",
+  "description": "Karta va naqd pul, kirim-chiqim va oylik reja",
+  "lang": "uz",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f2",
+  "theme_color": "#0f5e4f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
